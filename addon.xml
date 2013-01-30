@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon
+    id="plugin.video.pyvideo-org"
+    version="0.3.2"
+    name="PyVideo.org Plugin"
+    provider-name="Chadders">
+  <requires>
+    <import addon="xbmc.python" version="2.0"/>
+    <import addon="plugin.video.youtube" version="2.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <language>en</language>
+    <platform>all</platform>
+    <summary>pyvideo.org</summary>
+    <description>Videos related to the Python programming language
+    indexed by conference (via pyvideo.org)
+    </description>
+  </extension>
+</addon>

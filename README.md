@@ -1,2 +1,3 @@
-plugin.video.pyvideo-org
-========================
+XBMC plugin for pyvideo.org
+
+Tested on OpenELEC via Raspberry Pi

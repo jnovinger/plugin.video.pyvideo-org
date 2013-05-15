@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon
     id="plugin.video.pyvideo-org"
-    version="0.3.2"
+    version="0.3.3"
     name="PyVideo.org Plugin"
     provider-name="Chadders">
   <requires>
